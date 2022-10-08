@@ -7,7 +7,7 @@
 }
 
 .container {
-  background: rgb(57, 55, 55);
+  background: rgb(31, 31, 33);
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -17,7 +17,7 @@
 
 .app-wrapper {
   background-color: #023047;
-  min-width: 450px;
+  min-width: 300px;
   min-height: 650px;
   padding: 30px;
   box-sizing: border-box;
@@ -92,7 +92,7 @@
 .complete {
   text-decoration-style: solid;
   text-decoration-line: line-through;
-  text-decoration-color: #ff6c6c;
+  text-decoration-color: #06c0fd;
   opacity: 0.6;
 }
 
@@ -110,3 +110,4 @@ input:focus,
 button:focus {
   outline: none;
 }
+
